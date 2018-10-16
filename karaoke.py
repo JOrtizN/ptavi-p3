@@ -26,7 +26,7 @@ try:
 
         archiv_aux = archiv_aux + etiqueta + "\n"
 
-    print (archiv_aux[:-1])
+    print (archiv_aux[:-1])  # para salvar la linea en blanco, mirar como hacerlo mejor
 
 
 
