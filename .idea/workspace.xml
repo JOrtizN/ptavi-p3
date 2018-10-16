@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb7396e3-3a10-4a40-86c2-ef53e54d917e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clases.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/karaoke.py" beforeDir="false" afterPath="$PROJECT_DIR$/karaoke.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,21 +19,11 @@
       <file leaf-file-name="practica3-chistes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practica3-chistes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="455">
+              <caret line="56" selection-start-line="56" selection-end-line="56" selection-end-column="26" />
               <folding>
                 <element signature="e#44#75#0" expanded="true" />
-                <element signature="e#245#460#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="smallsmilhandler.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/smallsmilhandler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -47,8 +40,20 @@
       <file leaf-file-name="karaoke.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/karaoke.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+            <state relative-caret-position="300">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <element signature="e#44#75#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pkaaraoke.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pkaaraoke.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" lean-forward="true" selection-start-line="32" selection-end-line="34" />
               <folding>
                 <element signature="e#44#75#0" expanded="true" />
               </folding>
@@ -65,16 +70,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/psmall.py" />
-        <option value="$PROJECT_DIR$/smallsmilhandler.py" />
         <option value="$PROJECT_DIR$/pruebasmall.py" />
+        <option value="$PROJECT_DIR$/smallsmilhandler.py" />
+        <option value="$PROJECT_DIR$/pkaaraoke.py" />
         <option value="$PROJECT_DIR$/karaoke.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="693" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="994" />
     <option name="y" value="83" />
-    <option name="width" value="1227" />
+    <option name="width" value="926" />
     <option name="height" value="830" />
   </component>
   <component name="ProjectView">
@@ -82,6 +88,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,7 +100,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,12 +209,12 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="693" y="83" width="1227" height="830" extended-state="0" />
+    <frame x="994" y="83" width="926" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27709863" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22678186" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3288948" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.3288948" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3263889" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41666666" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -227,7 +233,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="14" />
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -237,7 +243,43 @@
           <caret line="61" selection-start-line="61" selection-end-line="61" />
           <folding>
             <element signature="e#44#75#0" expanded="true" />
-            <element signature="e#245#460#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smallsmilhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="e#44#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaoke.smil">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karaoke.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <element signature="e#44#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practica3-chistes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#44#75#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -268,7 +310,6 @@
           <caret line="61" selection-start-line="61" selection-end-line="61" />
           <folding>
             <element signature="e#44#75#0" expanded="true" />
-            <element signature="e#245#460#0" />
           </folding>
         </state>
       </provider>
@@ -316,13 +357,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/psmall.py" />
-    <entry file="file://$PROJECT_DIR$/karaoke.smil">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pruebasmall.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -330,28 +364,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practica3-chistes.py">
+    <entry file="file://$PROJECT_DIR$/smallsmilhandler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="120">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
             <element signature="e#44#75#0" expanded="true" />
-            <element signature="e#245#460#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/smallsmilhandler.py">
+    <entry file="file://$PROJECT_DIR$/karaoke.smil">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        <state relative-caret-position="345">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practica3-chistes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="56" selection-start-line="56" selection-end-line="56" selection-end-column="26" />
+          <folding>
+            <element signature="e#44#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkaaraoke.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" lean-forward="true" selection-start-line="32" selection-end-line="34" />
+          <folding>
+            <element signature="e#44#75#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/karaoke.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding>
             <element signature="e#44#75#0" expanded="true" />
           </folding>
